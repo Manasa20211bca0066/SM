@@ -1,1 +1,1 @@
-Devops is a combination of 2 words
+Devops is a combination of 2 words. Software development and operations
